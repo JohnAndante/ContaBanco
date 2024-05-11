@@ -10,10 +10,10 @@ Fui um pouco mais além e criei listas ao invés das variáveis tradicionais, de
 
 Execute o sistema via terminal, por meio do comando:
 ```bash
-$ java --enable-preview [diretório da pasta bin] ContaTerminal
+java --enable-preview [diretório da pasta bin] ContaTerminal
 ```
 
 Caso esteja na raíz da pasta C:/, por exemplo, deve ser executado assim:
 ```bash
-$ java --enable-preview 'C:\ContaBanco\bin\' ContaTerminal
+java --enable-preview 'C:\ContaBanco\bin\' ContaTerminal
 ```
